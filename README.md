@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishita1026
+- 👋 Hi, I’m @Ishita Bansal
 - 👀 I’m interested in solving healthcare datasets and generating meaningful reports
 - 🌱 I’m currently learning to become a good coder
   
