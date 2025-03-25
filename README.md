@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishita1026
-- 👀 I’m interested in AI machine learning
+- 👀 I’m interested in solving healthcare datasets and generating meaningful reports
 - 🌱 I’m currently learning to become a good coder
   
 
